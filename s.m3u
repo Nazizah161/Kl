@@ -1,12 +1,12 @@
 #EXTM3U
 EXTINF:-1,RCTI
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index_15.m3u8
 #EXTINF:-1,MNCTV
 https://d31ydakkt1yp6t.cloudfront.net/out/v1/ccf47d42d38b4ad09bd278e7468db779/index_3.m3u8
 #EXTINF:-1,GTV
-https://gtv-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+https://d25o49nvomuqf9.cloudfront.net/out/v1/8d10295729b9444b8636cb737a9e021f/index_7.m3u8
 #EXTINF:-1,INEWSTV
-https://inews-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+https://d20td0jz4qovct.cloudfront.net/out/v1/9784c4642c4f465a83354505f84fa263/index_5.m3u8
 #EXTINF:-1,RCTI
 https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1,MNCTV
