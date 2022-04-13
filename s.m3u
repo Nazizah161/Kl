@@ -2,7 +2,7 @@
 EXTINF:-1,RCTI
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1,MNCTV
-https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+https://d31ydakkt1yp6t.cloudfront.net/out/v1/ccf47d42d38b4ad09bd278e7468db779/index_3.m3u8
 #EXTINF:-1,GTV
 https://gtv-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 #EXTINF:-1,INEWSTV
